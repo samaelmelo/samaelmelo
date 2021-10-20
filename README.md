@@ -1,33 +1,47 @@
 ### Hi there 👋
 
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Samael Melo</h1>
-<h3 align="center">Estou formando em Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedor Front-End.</h3>
+<h3 align="center">Estou me formando em Análise e Desenvolvimento de Sistemas e sou apaixonado por desenvolimento front-end.</h3>
+
+  <br>
+  <br>
+<div text-align:"center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samaelmelo&theme=material-palenight)](https://github.com/samaelmelo/github-readme-stats)
+
+</div>
+
+## Minhas skills :fire: :rocket:
+
+<div style="display: flex" >
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
+    
+</div>
+
+#
 
 
-- 📫 Como me encontrar: **samaelmelo.dev@gmail.com**
+- 📫 Como me encontrar:
 
-<p align='left'>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<p style="margin-left: 40px">
+    <a href="https://br.linkedin.com/in/samael-melo">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://br.linkedin.com/in/samael-melo">
+    </a>
+    <a href = "mailto:samaelmelo.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
 </p>
-
-<p align="center">
-<a href="https://linkedin.com/in/samael-melo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samaelmelo" height="20" width="20" /></a>
-<a href="https://fb.com/samaelmelo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="samaelmelo" height="20" width="20" /></a>
-<a href="https://instagram.com/samaelmelo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="samaelmelo" height="20" width="20" /></a>
-</p>
-<!--
-**samaelmelo/samaelmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
