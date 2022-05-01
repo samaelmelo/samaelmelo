@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Samael Melo</h1>
-<h3 align="center">Estou me formando em Análise e Desenvolvimento de Sistemas e sou apaixonado por desenvolimento front-end.</h3>
+<h3 align="center">Estou me formando em Análise e Desenvolvimento de Sistemas e sou apaixonado por desenvolimento front-end. 🚀</h3>
 
   <br>
   <br>
