@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Olá! Meu nome é Samael Melo e sou um desenvolvedor Full stack apaixonado por tecnologia e inovação. Com mais de 4 anos de experiência, tenho orgulho de ter me formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista e de estar atualmente cursando uma pós-graduação em Desenvolvimento Web Full Stack pela PUC Minas.
+Meu nome é Samael Melo e sou um desenvolvedor Full stack apaixonado por tecnologia e inovação. Com mais de 4 anos de experiência, tenho orgulho de ter me formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista e de estar atualmente cursando uma pós-graduação em Desenvolvimento Web Full Stack pela PUC Minas.
 
 Minha jornada profissional tem sido incrível até agora, com projetos desafiadores que me permitiram aplicar meus conhecimentos em diferentes linguagens e plataformas. Tenho habilidades sólidas em front-end, back-end e banco de dados, o que me permite criar soluções eficientes e intuitivas para as necessidades dos usuários.
 
