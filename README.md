@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Samael Melo</h1>
-<h3 align="center">Estou me formando em Análise e Desenvolvimento de Sistemas e sou apaixonado por desenvolimento front-end. 🚀</h3>
+Olá! Meu nome é Samael Melo e sou um desenvolvedor Full stack apaixonado por tecnologia e inovação. Com mais de 4 anos de experiência, tenho orgulho de ter me formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista e de estar atualmente cursando uma pós-graduação em Desenvolvimento Web Full Stack pela PUC Minas.
+
+Minha jornada profissional tem sido incrível até agora, com projetos desafiadores que me permitiram aplicar meus conhecimentos em diferentes linguagens e plataformas. Tenho habilidades sólidas em front-end, back-end e banco de dados, o que me permite criar soluções eficientes e intuitivas para as necessidades dos usuários.
+
+Sou uma pessoa dedicada e comprometida, que acredita que a colaboração é a chave para o sucesso de qualquer projeto. Estou sempre em busca de aprender e crescer profissionalmente, o que me mantém motivado e entusiasmado com as possibilidades que a tecnologia oferece.
+
+Se você estiver procurando por um desenvolvedor Full stack talentoso e apaixonado, que seja capaz de enfrentar desafios e trazer soluções inovadoras, entre em contato comigo! Estou ansioso para conversar com você.
 
   <br>
   <br>
