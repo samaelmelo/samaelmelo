@@ -1,22 +1,21 @@
 # 👋 Olá, eu sou o Samael Melo!
 
-Desenvolvedor front-end com foco em **React** e **React Native**, apaixonado por criar interfaces funcionais, modernas e escaláveis.
+Sou desenvolvedor **fullstack**, com foco principal em **front-end React** e **mobile com React Native**, mas com sólida base em back-end e arquitetura de sistemas. Tenho graduação em **Análise e Desenvolvimento de Sistemas** e **pós-graduação em Desenvolvimento Web FullStack**.
 
-Tenho experiência prática em projetos complexos como sistemas de gestão industrial, controle de produção e aplicativos mobile integrados com APIs, WebSockets e dispositivos físicos (como scanners industriais).
+Atuo na área há mais de 5 anos, entregando soluções reais para empresas como **Venturus**, **Huawei**, **Ubistart** e **ADATA**, com projetos que envolvem desde sistemas industriais até aplicativos móveis com integrações complexas (APIs, WebSockets, scanners físicos, entre outros).
 
-💼 Atualmente atuo com:
-- React / React Native / Expo
-- TypeScript / JavaScript
-- Styled Components / Gluestack / Chakra UI
-- Axios / React Query / React Hook Form
-- Consumo de APIs REST e WebSockets
-- Estruturação de UI com boas práticas de acessibilidade
-- Integrações com ferramentas como Firebase, AsyncStorage, entre outras
+🎯 Atualmente, estou expandindo meus conhecimentos com **desenvolvimento iOS em Swift**, aplicando princípios de POO, UIKit e SwiftUI.
 
-🔧 Experiência com:
-- Projetos em empresas como **Venturus**, **Huawei**, **Ubistart** e **ADATA**
-- Desenvolvimento de apps iOS com Swift em fase de aprendizado
-- Publicação e organização de projetos no GitHub, com foco em legibilidade e boas práticas
+---
+
+## 💼 Stack principal
+
+- **Front-end**: React, React Native, TypeScript, JavaScript  
+- **Back-end**: Node.js, Express, APIs REST, MongoDB  
+- **Mobile**: React Native CLI / Expo, AsyncStorage, Expo Image Picker  
+- **UI**: Chakra UI, Styled Components, Gluestack UI  
+- **Estado & Formulários**: React Hook Form, React Query, Context API  
+- **Outros**: Firebase, Git, CI/CD básico, Swift (UIKit & SwiftUI)
 
 ---
 
@@ -24,23 +23,31 @@ Tenho experiência prática em projetos complexos como sistemas de gestão indus
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Ignite Gym](https://github.com/seuusuario/ignite-gym) | App mobile de treinos com autenticação, histórico e upload de avatar | React Native, Expo, TypeScript, Gluestack UI |
-| [Sistema de produção](link) | Dashboard web para controle de peças e ordens de produção em tempo real | React, Recharts, WebSocket, Chakra UI |
-| [iQuiz](link) | App iOS desenvolvido com UIKit e Swift para quiz interativo | Swift, UIKit, Auto Layout |
+| [Ignite Gym](https://github.com/seuusuario/ignite-gym) | App de treinos com autenticação, histórico e upload de imagem | React Native, Expo, TypeScript, Gluestack UI |
+| [iQuiz](https://github.com/seuusuario/iQuiz) | Quiz interativo desenvolvido em Swift para iOS | Swift, UIKit, Auto Layout |
+| [Dashboard Fábrica](https://github.com/seuusuario/dashboard-fabrica) | Painel de controle com fluxo de produção em tempo real | React, Recharts, WebSocket, Chakra UI |
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📚 Em evolução
+
+📱 **Swift + UIKit + SwiftUI**  
+Atualmente estudando desenvolvimento iOS para criar apps nativos com foco em performance e arquitetura limpa.
+
+---
+
+## 📫 Conecte-se comigo
 
 - 💼 [LinkedIn](https://linkedin.com/in/samael-melo)
+- 💻 [Portfólio (em breve)]()
 - ✉️ samaelmelo.dev@gmail.com
 
 ---
 
 ## ⚡ Curiosidades
 
-- Sempre busco aplicar princípios de **clean code** e componentes reutilizáveis.
-- Estou estudando **Swift e iOS** para expandir minha atuação também no desenvolvimento nativo.
-- Gosto de contribuir com dicas para a comunidade dev no [LinkedIn](https://linkedin.com/in/samael-melo).
+- Sempre busco aplicar princípios de clean code, reatividade e modularização.
+- Tenho facilidade em colaborar com áreas de produto e UX para entregar soluções completas.
+- Compartilho experiências e aprendizados com a comunidade dev pelo LinkedIn.
 
 ---
