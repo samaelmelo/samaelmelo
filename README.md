@@ -1,52 +1,46 @@
-### Hi 👋
+# 👋 Olá, eu sou o Samael Melo!
 
-Meu nome é Samael Melo e sou um desenvolvedor Full stack apaixonado por tecnologia e inovação. Com mais de 4 anos de experiência, tenho orgulho de ter me formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista e de estar atualmente cursando uma pós-graduação em Desenvolvimento Web Full Stack pela PUC Minas.
+Desenvolvedor front-end com foco em **React** e **React Native**, apaixonado por criar interfaces funcionais, modernas e escaláveis.
 
-Minha jornada profissional tem sido incrível até agora, com projetos desafiadores que me permitiram aplicar meus conhecimentos em diferentes linguagens e plataformas. Tenho habilidades sólidas em front-end, back-end e banco de dados, o que me permite criar soluções eficientes e intuitivas para as necessidades dos usuários.
+Tenho experiência prática em projetos complexos como sistemas de gestão industrial, controle de produção e aplicativos mobile integrados com APIs, WebSockets e dispositivos físicos (como scanners industriais).
 
-Sou uma pessoa dedicada e comprometida, que acredita que a colaboração é a chave para o sucesso de qualquer projeto. Estou sempre em busca de aprender e crescer profissionalmente, o que me mantém motivado e entusiasmado com as possibilidades que a tecnologia oferece.
+💼 Atualmente atuo com:
+- React / React Native / Expo
+- TypeScript / JavaScript
+- Styled Components / Gluestack / Chakra UI
+- Axios / React Query / React Hook Form
+- Consumo de APIs REST e WebSockets
+- Estruturação de UI com boas práticas de acessibilidade
+- Integrações com ferramentas como Firebase, AsyncStorage, entre outras
 
-Se você estiver procurando por um desenvolvedor Full stack talentoso e apaixonado, que seja capaz de enfrentar desafios e trazer soluções inovadoras, entre em contato comigo! Estou ansioso para conversar com você.
+🔧 Experiência com:
+- Projetos em empresas como **Venturus**, **Huawei**, **Ubistart** e **ADATA**
+- Desenvolvimento de apps iOS com Swift em fase de aprendizado
+- Publicação e organização de projetos no GitHub, com foco em legibilidade e boas práticas
 
-  <br>
-  <br>
-<div text-align:"center">
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samaelmelo&theme=material-palenight)](https://github.com/samaelmelo/github-readme-stats)
+## 🚀 Projetos em destaque
 
-</div>
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Ignite Gym](https://github.com/seuusuario/ignite-gym) | App mobile de treinos com autenticação, histórico e upload de avatar | React Native, Expo, TypeScript, Gluestack UI |
+| [Sistema de produção](link) | Dashboard web para controle de peças e ordens de produção em tempo real | React, Recharts, WebSocket, Chakra UI |
+| [iQuiz](link) | App iOS desenvolvido com UIKit e Swift para quiz interativo | Swift, UIKit, Auto Layout |
 
-## Minhas skills :fire: :rocket:
+---
 
-<div style="display: flex" >
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    
-    
-</div>
+## 📫 Vamos nos conectar?
 
-#
+- 💼 [LinkedIn](https://linkedin.com/in/samael-melo)
+- ✉️ samaelmelo.dev@gmail.com
 
+---
 
-- 📫 Como me encontrar:
+## ⚡ Curiosidades
 
-<p style="margin-left: 40px">
-    <a href="https://br.linkedin.com/in/samael-melo">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://br.linkedin.com/in/samael-melo">
-    </a>
-    <a href = "mailto:samaelmelo.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-</p>
+- Sempre busco aplicar princípios de **clean code** e componentes reutilizáveis.
+- Estou estudando **Swift e iOS** para expandir minha atuação também no desenvolvimento nativo.
+- Gosto de contribuir com dicas para a comunidade dev no [LinkedIn](https://linkedin.com/in/samael-melo).
+
+---
