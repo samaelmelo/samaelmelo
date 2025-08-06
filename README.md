@@ -39,7 +39,7 @@ Atualmente estudando desenvolvimento iOS para criar apps nativos com foco em per
 ## 📫 Conecte-se comigo
 
 - 💼 [LinkedIn](https://linkedin.com/in/samael-melo)
-- 💻 [Portfólio (em breve)]()
+- 💻 [Portfólio (em breve)](https://portifolio-samael.vercel.app/)
 - ✉️ samaelmelo.dev@gmail.com
 
 ---
